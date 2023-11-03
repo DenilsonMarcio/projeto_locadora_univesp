@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.univesp.projeto</groupId>
 	<artifactId>LocadoraVHS</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>LocadoraVHS</name>
 	<description>Projeto de uma Locadora de filmes e jogos para o curso de Eng. da Computação Univesp</description>
 	<properties>
