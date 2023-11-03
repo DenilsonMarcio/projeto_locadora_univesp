@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.univesp.projeto</groupId>
-	<artifactId>LocadoraVHS</artifactId>
+	<artifactId>locadora</artifactId>
 	<version>1.0.0</version>
-	<name>LocadoraVHS</name>
+	<name>locadora</name>
 	<description>Projeto de uma Locadora de filmes e jogos para o curso de Eng. da Computação Univesp</description>
 	<properties>
 		<java.version>17</java.version>
