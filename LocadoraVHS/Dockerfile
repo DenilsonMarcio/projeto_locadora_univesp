@@ -1,4 +1,4 @@
-FROM ubuntu:latest AS build
+FROM ubuntu:10.04 AS build
 
 # Install required packages
 RUN apt-get update && apt-get install -y openjdk-17-jdk maven
